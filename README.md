@@ -1,1 +1,2 @@
-# CS7641MachineLearning
+# CS 7641 MachineLearning
+Homeworks
